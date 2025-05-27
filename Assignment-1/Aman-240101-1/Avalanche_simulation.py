@@ -8,6 +8,7 @@ class Node:
     """
     def __init__(self, node_id: int, initial_state: int):
         self.id = node_id
+        
         self.state = initial_state
         self._snowflake_count = 0      
         self._snowball_counter = {0: 0, 1: 0} 
