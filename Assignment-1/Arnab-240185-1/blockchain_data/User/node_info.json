@@ -1,0 +1,11 @@
+{
+  "current_balance": 47.0,
+  "is_miner": false,
+  "mining_reward": null,
+  "node_name": "User",
+  "node_type": "Node",
+  "public_key": {
+    "e": 65537,
+    "n": 100160063
+  }
+}

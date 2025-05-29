@@ -1,0 +1,48 @@
+{
+  "consensus_mechanism": "Avalanche",
+  "total_nodes": 10,
+  "blockchain_length": 2,
+  "pending_transactions": 0,
+  "nodes": [
+    {
+      "name": "Node_1",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_2",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_3",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_4",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_5",
+      "balance": 90.0
+    },
+    {
+      "name": "Node_6",
+      "balance": 110.0
+    },
+    {
+      "name": "Node_7",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_8",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_9",
+      "balance": 100.0
+    },
+    {
+      "name": "Node_10",
+      "balance": 100.0
+    }
+  ]
+}

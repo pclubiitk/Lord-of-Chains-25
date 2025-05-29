@@ -1,0 +1,181 @@
+{
+  "node_name": "Node_7",
+  "node_id": 6,
+  "blockchain_length": 2,
+  "balance": 100.0,
+  "finalized_blocks_count": 2,
+  "blocks": [
+    {
+      "index": 0,
+      "timestamp": 1748523580.3711274,
+      "hash": "43aaeed8de8ec0f52582fe2c4574cfcc855f54be10e6c451727c4871d1475fb1",
+      "previous_hash": "0",
+      "transactions_count": 10,
+      "transactions": [
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            100160063,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3709254,
+          "signature": 0,
+          "transaction_id": "26a1b6aec64009b3184719c3e0fb10c900d2412a814b92263d5c6a1022cbce43"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            100761443,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.371067,
+          "signature": 0,
+          "transaction_id": "c3046031a977220021f9dc75f3ef477cf7477d88b6b8a7a26904eccea98f1f37"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            101284087,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.371077,
+          "signature": 0,
+          "transaction_id": "ea533e793268283aced65a41c0058bd6906e5137c594137053723c3339168b83"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            101485451,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3710842,
+          "signature": 0,
+          "transaction_id": "51c4b2aac9fc9debbeaa76639bde003c50a4527bb827623e22526e61276144fb"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            101848463,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3710902,
+          "signature": 0,
+          "transaction_id": "87064611fc5416f7a2830ba12594da5f5a6c87ddc8a81a1218703ef9fa4b24f5"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            102030197,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3710985,
+          "signature": 0,
+          "transaction_id": "70cb2f0e97a431ddde8786d3ce47116b35fcd53f16a634dbbf7a4e1516b0f31f"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            102454763,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3711038,
+          "signature": 0,
+          "transaction_id": "dac6ebac46a655fc686cd413ff9111145fe60cb6a370e584701b3332e449404c"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            102819599,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3711088,
+          "signature": 0,
+          "transaction_id": "9b67fc19448d998c99e86b79d0051c0c11174360bbd8c85d02a3cfcfc1b91158"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            103124009,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3711135,
+          "signature": 0,
+          "transaction_id": "f75d223965d0488633b03f44670183c0e3cb28f3fb8a51447234c9613fa6aca6"
+        },
+        {
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "recipient_public_key": [
+            103347547,
+            65537
+          ],
+          "amount": 100.0,
+          "timestamp": 1748523580.3711185,
+          "signature": 0,
+          "transaction_id": "1f277854f02312e96235b972434d89ec9882600fa10d1a7efb134dfdbdf27c7f"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "timestamp": 1748523595.893541,
+      "hash": "383cc818ca44c4796b80422ea567fa9ca6c13b6b2726a8c6787a26e8c2634a27",
+      "previous_hash": "43aaeed8de8ec0f52582fe2c4574cfcc855f54be10e6c451727c4871d1475fb1",
+      "transactions_count": 1,
+      "transactions": [
+        {
+          "sender_public_key": [
+            101848463,
+            65537
+          ],
+          "recipient_public_key": [
+            102030197,
+            65537
+          ],
+          "amount": 10.0,
+          "timestamp": 1748523592.4217231,
+          "signature": 90412835,
+          "transaction_id": "222279ba3684dcd9d3a818a7dcfc7f6e98eb48717dcee97efbe4018affefadee"
+        }
+      ]
+    }
+  ]
+}
