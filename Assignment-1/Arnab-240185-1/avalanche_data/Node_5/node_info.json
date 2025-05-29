@@ -1,0 +1,15 @@
+{
+  "name": "Node_5",
+  "node_id": 4,
+  "public_key": [
+    101848463,
+    65537
+  ],
+  "balance": 90.0,
+  "avalanche_params": {
+    "sample_size": 5,
+    "quorum_threshold": 3,
+    "decision_threshold": 1,
+    "confidence_threshold": 3
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "network_info": {
+    "blockchain_length": 5,
+    "difficulty": 3,
+    "pending_transactions": 0,
+    "total_miners": 2,
+    "total_nodes": 5
+  },
+  "nodes": [
+    {
+      "balance": 47.0,
+      "name": "User",
+      "public_key": [
+        100160063,
+        65537
+      ],
+      "type": "Node"
+    },
+    {
+      "balance": 192.0,
+      "name": "Miner_1",
+      "public_key": [
+        100460333,
+        65537
+      ],
+      "type": "Miner"
+    },
+    {
+      "balance": 147.0,
+      "name": "Miner_2",
+      "public_key": [
+        100761443,
+        65537
+      ],
+      "type": "Miner"
+    },
+    {
+      "balance": 61.0,
+      "name": "Node_3",
+      "public_key": [
+        101002379,
+        65537
+      ],
+      "type": "Node"
+    },
+    {
+      "balance": 3.0,
+      "name": "Node_4",
+      "public_key": [
+        101284087,
+        65537
+      ],
+      "type": "Node"
+    }
+  ]
+}

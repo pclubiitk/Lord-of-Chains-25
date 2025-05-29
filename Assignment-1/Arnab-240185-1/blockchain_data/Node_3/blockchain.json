@@ -1,0 +1,296 @@
+{
+  "blockchain_length": 5,
+  "blocks": [
+    {
+      "block_index": 0,
+      "hash": "000ae11fd74d2148bc5d1f9df11d4fa9d88445919e8c6a856dc3b2587494397c",
+      "miner_public_key": [
+        100460333,
+        65537
+      ],
+      "nonce": 10004,
+      "previous_hash": "0",
+      "timestamp": 1748502411.06441,
+      "transactions": [
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100160063,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502411.0642478,
+          "transaction_id": "169dddd78b6a6ca09d6c9441ff49ed3c3d6cab939c9c85efcd883b1ff9004c81"
+        },
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100460333,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502411.0643413,
+          "transaction_id": "9ca099e36cad25f1ce1a363bd6347286b542018bb153673f888de23dc24154af"
+        },
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100761443,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502411.0643635,
+          "transaction_id": "dbff9ed9700efba4959d21ea45756e701c52d65b91810208f95a8d770b81bfe0"
+        },
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502411.064379,
+          "transaction_id": "af2561a623b54b74e5ce55b170cef2cb24491fc6bb501467ebcb48841b80b974"
+        },
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            101284087,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502411.0643945,
+          "transaction_id": "5c939dd0cf9a9ef78ffa93db3539c4c78cf848f3b3bcbf51bedf1cb031ee075c"
+        }
+      ]
+    },
+    {
+      "block_index": 1,
+      "hash": "000aec45e67b9ad154a47c8b882ba72a07ea2ec4c678a36c2e685138bc780e49",
+      "miner_public_key": [
+        100761443,
+        65537
+      ],
+      "nonce": 2187,
+      "previous_hash": "000ae11fd74d2148bc5d1f9df11d4fa9d88445919e8c6a856dc3b2587494397c",
+      "timestamp": 1748502448.030642,
+      "transactions": [
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100761443,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502448.0305886,
+          "transaction_id": "be9445646c62ae0ee50d6f459aa7f601b3d381071b156697361fd10e19135ccc"
+        },
+        {
+          "amount": 45.0,
+          "recipient_public_key": [
+            100460333,
+            65537
+          ],
+          "sender_public_key": [
+            101284087,
+            65537
+          ],
+          "signature": 93833159,
+          "timestamp": 1748502425.3902218,
+          "transaction_id": "95658cba812f7ca2b2d0eb91bb2d436b7ae52b066209fd0380a7bd6e6dc08298"
+        },
+        {
+          "amount": 2.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            101284087,
+            65537
+          ],
+          "signature": 41074842,
+          "timestamp": 1748502429.0863714,
+          "transaction_id": "99e64274adb530309e7d90970409e0958b56d43fd6b232c94c93f16716ac8b70"
+        }
+      ]
+    },
+    {
+      "block_index": 2,
+      "hash": "00028e33fa37c5a06737045f512d753b90a271c68b57b391da140c804c3a75fa",
+      "miner_public_key": [
+        100460333,
+        65537
+      ],
+      "nonce": 10320,
+      "previous_hash": "000aec45e67b9ad154a47c8b882ba72a07ea2ec4c678a36c2e685138bc780e49",
+      "timestamp": 1748502506.8309357,
+      "transactions": [
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100460333,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502506.8308754,
+          "transaction_id": "d7ac6aae8c110ee66c1ccee5f32e55ac6136ce552cfe24cc8ae42a074f9345d0"
+        },
+        {
+          "amount": 3.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            100160063,
+            65537
+          ],
+          "signature": 26497364,
+          "timestamp": 1748502419.140098,
+          "transaction_id": "569e35739cfa7fd7d7cc0f13838b08357deeec3fc30fc4ec6ed10344df203e7a"
+        },
+        {
+          "amount": 3.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            100460333,
+            65537
+          ],
+          "signature": 5456239,
+          "timestamp": 1748502422.3502626,
+          "transaction_id": "f6f076b44f03cc87099eacabf83b1758c6ec054280d4ee17939afce15650af6f"
+        }
+      ]
+    },
+    {
+      "block_index": 3,
+      "hash": "000d3f87d40858f4f0cdd40895404d5d20a5216a2c396d261ea5545703c20fb4",
+      "miner_public_key": [
+        100761443,
+        65537
+      ],
+      "nonce": 5672,
+      "previous_hash": "00028e33fa37c5a06737045f512d753b90a271c68b57b391da140c804c3a75fa",
+      "timestamp": 1748502513.135052,
+      "transactions": [
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100761443,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502513.1350083,
+          "transaction_id": "842a4c3c6e8c2cd587eb550c4caafcc78a3b58f416cac663115f150c45810779"
+        },
+        {
+          "amount": 1.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            100460333,
+            65537
+          ],
+          "signature": 92972551,
+          "timestamp": 1748502439.4705985,
+          "transaction_id": "dd36f04d5f796db741efa16985743161c78edff1adaa2484bdd19f7c9a074b4f"
+        }
+      ]
+    },
+    {
+      "block_index": 4,
+      "hash": "000bee8936b99ae671e4bded5de1a5a447686a18a673bd4b028007ef535c49b1",
+      "miner_public_key": [
+        100460333,
+        65537
+      ],
+      "nonce": 2738,
+      "previous_hash": "000d3f87d40858f4f0cdd40895404d5d20a5216a2c396d261ea5545703c20fb4",
+      "timestamp": 1748502529.0757186,
+      "transactions": [
+        {
+          "amount": 50.0,
+          "recipient_public_key": [
+            100460333,
+            65537
+          ],
+          "sender_public_key": [
+            0,
+            0
+          ],
+          "signature": 0,
+          "timestamp": 1748502529.0756583,
+          "transaction_id": "2e545efab6245b263fcef177daf70c37d2938da8088903e8bf4a3a01bb270c21"
+        },
+        {
+          "amount": 2.0,
+          "recipient_public_key": [
+            101002379,
+            65537
+          ],
+          "sender_public_key": [
+            100761443,
+            65537
+          ],
+          "signature": 79109372,
+          "timestamp": 1748502431.2699609,
+          "transaction_id": "7987c6e031494f753055ec95ca3d91aba70e317545dba074c73203aa0d986be4"
+        },
+        {
+          "amount": 1.0,
+          "recipient_public_key": [
+            100460333,
+            65537
+          ],
+          "sender_public_key": [
+            100761443,
+            65537
+          ],
+          "signature": 75527515,
+          "timestamp": 1748502434.6124284,
+          "transaction_id": "2ad726a6cfb59d84131fb3e899d971f231b9fb780e2cf93e76c6309206769a7a"
+        }
+      ]
+    }
+  ],
+  "node_name": "Node_3",
+  "node_type": "Node"
+}
