@@ -1,8 +1,8 @@
-# SupplyChainTracker
+# SupplyChain
 
 ## Overview
 
-`SupplyChainTracker` is a Solidity smart contract designed to log the journey of a product through a four-stage supply chain:
+`SupplyChain` is a Solidity smart contract designed to log the journey of a product through a four-stage supply chain:
 
 1. Seller (deployer)
 2. Warehouse
