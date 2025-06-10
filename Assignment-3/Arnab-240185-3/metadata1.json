@@ -1,0 +1,20 @@
+{
+    "description": "Covaxin Covid 19 Vaccine",
+    "external_url": "https://github.com/pclubiitk/Lord-of-Chains-25",
+    "image": "https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafkreie6gkjw35u2bfmbhx3mgbpxtuzgceecup2f5zzkvoais4grq56xn4",
+    "name": "Covaxin NFT",
+    "attributes": [
+      {
+        "trait_type": "Product Type",
+        "value": "Vaccine"
+      },
+      {
+        "trait_type": "Manufacturer",
+        "value": "Bharat Biotech"
+      },
+      {
+        "trait_type": "Temperature Sensitive",
+        "value": "Yes"
+      }
+    ]
+}
