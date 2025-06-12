@@ -17,8 +17,12 @@ This project demonstrates how supply chain products can be tokenized as NFTs (No
 ## Files
 - `Contract.sol` – Main smart contract for NFT logic
 - `metadata1.json`, `metadata2.json`, `metadata3.json` – Example metadata for products
-- Product images: `BP monitor.jpg`, `calpol-650mg.jpg`, `covaxinjpg.jpg`
-- `README.md` – Project documentation
+- Product images:`covaxinjpg.jpg`, `calpol-650mg.jpg`,`BP monitor.jpg`
+- URIs : 
+* https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafkreihkcevirvdcrcxuc6wplc5pfcomvxqgq4nfd7ufzgaeyz27tn3gme,
+* https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafkreifr5u2nwcta3ngal7rqts5swyvrhrbqa5upzwdswdt3i6cahbw6zm,
+* https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafkreide3gfqlxxq63nl2taecwtixry5xnzmjd5cu4c2zx43uhqa5fxre4
+
 
 ## How to Use
 1. **Deploy the Contract:**  
