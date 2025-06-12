@@ -1,0 +1,20 @@
+{
+    "description": "Antipyretic and analgesic medication used to relieve pain and reduce fever.",
+    "external_url": "https://github.com/pclubiitk/Lord-of-Chains-25",
+    "image": "https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafybeihd55ooy2vpralmzr74t3hjyxaudok6g2pcjl2fhn6r6ple4mphs4",
+    "name": "Calpol 650mg Tablet",
+    "attributes": [
+      {
+        "trait_type": "Product Type",
+        "value": "Tablet"
+      },
+      {
+        "trait_type": "Manufacturer",
+        "value": "GlaxoSmithKline Pharmaceuticals Ltd"
+      },
+      {
+        "trait_type": "Temperature Sensitive",
+        "value": "No"
+      }
+    ]
+}

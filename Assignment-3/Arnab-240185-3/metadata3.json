@@ -1,0 +1,20 @@
+{
+    "description": "Sphygmomanometer used for measuring blood pressure, featuring automatic inflation and digital display.",
+    "external_url": "https://github.com/pclubiitk/Lord-of-Chains-25",
+    "image": "https://turquoise-voluntary-mosquito-398.mypinata.cloud/ipfs/bafkreigwcprnng2id5k2xbts4zth63u7ebndqe4r6x7u4g4ibkyj2pnmy4",
+    "name": "Omron HEM-7120 Automatic Blood Pressure Monitor NFT",
+    "attributes": [
+      {
+        "trait_type": "Product Type",
+        "value": "Medical Device"
+      },
+      {
+        "trait_type": "Manufacturer",
+        "value": "Omron Healthcare"
+      },
+      {
+        "trait_type": "Temperature Sensitive",
+        "value": "No"
+      }
+    ]
+}
