@@ -1,0 +1,12 @@
+# Smart Tracking Contract
+Deployed address
+0xD763f20D13a5764f54137A7f9007b8DC9C0A3ea8
+
+Warehouse Address
+0xf55407b741e21eabc804f3d4fdc1509f1ae6c001
+
+Delivery Boy Address
+0xed657a55a6803347e3bcaf04237510e3ff288310
+
+Buyer Address
+0xA82fdCC44CC21dFb21d496A0888F4F7eEe26abf2
