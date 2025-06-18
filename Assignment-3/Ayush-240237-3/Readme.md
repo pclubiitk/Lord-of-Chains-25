@@ -93,11 +93,4 @@ Call `safeMint` with:
 
 ---
 
-## Troubleshooting
-
-- **Role Errors:** Ensure your MetaMask is set to the correct address for the role you are trying to use.
-- **Transfer Fails:** Check product status, expiry, and temperature sensitivity requirements.
-- **Events Not Visible:** Use a block explorer or Remix’s logs to view emitted events.
-
----
 
