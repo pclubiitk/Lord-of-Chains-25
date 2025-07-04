@@ -24,10 +24,11 @@ contract TimeBasedAuction is ERC721URIStorage, Ownable {
     address[] private bidders;
     uint256 private highestBid;
 
-    constructor(uint256 _biddingDuration) ERC721("AuctionWinnerNFT", "AWNFT") {
-        startTime = block.timestamp;
-        endTime = block.timestamp + _biddingDuration;
+    constructor(uint256 _biddingDuration) ERC721("AuctionWinnerNFT", "AWNFT") Ownable(msg.sender) {
+    startTime = block.timestamp;
+    endTime = block.timestamp + _biddingDuration;
     }
+
 
     modifier onlyDuringBidding() {
         require(block.timestamp >= startTime && block.timestamp <= endTime, "Bidding is closed");
